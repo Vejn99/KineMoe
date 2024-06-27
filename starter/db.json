@@ -1,0 +1,1039 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Bal-kan-kan",
+      "description": "Bal-kan-kan is an intriguing movie that explores the complexities of life in the Balkans. Set against the backdrop of the region's rich history and cultural diversity, the film takes viewers on a journey of discovery, revealing the beauty and challenges of the Balkan way of life.",
+      "genres": [
+        "Action",
+        "Drama",
+        "Crime",
+        "Sci-fi",
+        "Thriller"
+      ],
+      "director": "Ana Petrovic",
+      "cast": [
+        "Marko",
+        "Jovana",
+        "Stefan"
+      ],
+      "image": "/images/HomePage/Movies/image1.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": false,
+      "keywords": [
+        "Balkans",
+        "Culture",
+        "Adventure"
+      ],
+      "comments": [
+        {
+          "id": 21,
+          "userId": 211,
+          "userName": "Marija",
+          "comment": "Interesting Movie",
+          "icon": "/images/Community/Users/image1.png",
+          "time": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lazar",
+      "description": "Involved in a ring of illegal smugglers, Lazar lives a disconnected life until he meets Katerina, with whom he envisions a hopeful future. But leaving the criminal world is harder than he imagined. ",
+      "genres": [
+        "Action",
+        "Horror",
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Igor Ivanov",
+      "cast": [
+        "Stefan",
+        "Ana",
+        "Petar"
+      ],
+      "image": "/images/HomePage/Movies/image2.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": false,
+      "keywords": [
+        "Balkans",
+        "Tradition"
+      ],
+      "comments": [
+        {
+          "id": 11,
+          "userId": 111,
+          "userName": "Trajce",
+          "icon": "/images/Community/Users/image3.png",
+          "comment": "Amazing Movie",
+          "time": 15
+        },
+        {
+          "id": 12,
+          "userId": 112,
+          "userName": "Natasa",
+          "icon": "/images/Community/Users/image1.png",
+          "comment": "Awesome storyline",
+          "time": 20
+        },
+        {
+          "id": 13,
+          "userId": 113,
+          "userName": "Mihail",
+          "icon": "/images/Community/Users/image5.png",
+          "comment": "Cool effects",
+          "time": 30
+        },
+        {
+          "id": 749,
+          "userId": 661,
+          "userName": "Vane ",
+          "comment": "zdarvfo",
+          "time": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Juzni Vetar",
+      "description": "Juzni Vetar is a thrilling crime drama that follows the lives of a group of friends who become involved in the dangerous world of organized crime. Set in the gritty underworld of Belgrade, the film explores themes of loyalty, betrayal, and the price of power.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Sci-fi"
+      ],
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "director": "Milan Markovic",
+      "cast": [
+        "Marko",
+        "Milos",
+        "Jovana"
+      ],
+      "image": "/images/HomePage/Movies/image3.png",
+      "popularity": true,
+      "isNewRelease": false,
+      "keywords": [
+        "Culture",
+        "Action",
+        "Tradition"
+      ],
+      "comments": []
+    },
+    {
+      "id": 4,
+      "title": "Zona Zamfirova",
+      "description": "Zona Zamfirova is a charming romantic comedy that follows the misadventures of a young woman as she navigates the complexities of love and family in 19th century Serbia. Full of humor, heart, and unforgettable characters, the film is a delightful homage to Serbian culture and tradition.",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "History",
+        "Crime"
+      ],
+      "director": "Nikola Petrovic",
+      "cast": [
+        "Zona",
+        "Mane",
+        "Stojan"
+      ],
+      "image": "/images/HomePage/Movies/image4.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": false,
+      "keywords": [
+        "Balkans",
+        "Culture",
+        "Adventure"
+      ],
+      "comments": []
+    },
+    {
+      "id": 5,
+      "title": "The Third Half",
+      "description": "The Third Half is a gripping historical drama that tells the story of a soccer team's journey to victory against the backdrop of World War II and the Holocaust. Set in Macedonia during the 1940s, the film explores themes of courage, resilience, and the power of sports to unite people in the face of adversity.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "History",
+        "Sci-fi"
+      ],
+      "director": "Stefan Ivanov",
+      "cast": [
+        "Vlatko",
+        "Anastasija",
+        "Sasko"
+      ],
+      "image": "/images/HomePage/Movies/image5.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": true,
+      "keywords": [
+        "Action",
+        "Tradition"
+      ],
+      "comments": []
+    },
+    {
+      "id": 6,
+      "title": "Mirage",
+      "description": "Mirage is a mind-bending thriller that takes viewers on a journey through time and space. When a man discovers a mysterious portal that allows him to see into the past, he becomes entangled in a dangerous web of intrigue and deception. Full of twists and turns, Mirage will keep you guessing until the very end.",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Nikola Ivanov",
+      "cast": [
+        "Igor",
+        "Elena",
+        "Dimitar"
+      ],
+      "image": "/images/HomePage/Movies/image6.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": true,
+      "keywords": [
+        "Culture",
+        "Adventure"
+      ],
+      "comments": []
+    },
+    {
+      "id": 7,
+      "title": "Balkansa Medja",
+      "description": "Balkansa Medja is a captivating drama that explores the lives of a group of villagers living on the border between Macedonia and Albania. Set against the backdrop of the Balkan Wars, the film follows the villagers as they struggle to survive and maintain their way of life in the face of war and conflict.",
+      "genres": [
+        "Action",
+        "History",
+        "Sci-fi",
+        "Thriller"
+      ],
+      "director": "Nikola Georgiev",
+      "cast": [
+        "Goran",
+        "Mila",
+        "Svetlana"
+      ],
+      "image": "/images/HomePage/Movies/image7.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": true,
+      "keywords": [
+        "Balkans",
+        "Tradition",
+        "Culture"
+      ],
+      "comments": []
+    },
+    {
+      "id": 8,
+      "title": "Brza Pomos",
+      "description": "Brza Pomos is a heartwarming comedy that follows the misadventures of a group of friends who work for a roadside assistance company. Full of humor, heart, and unforgettable characters, the film is a delightful romp through the Macedonian countryside.",
+      "genres": [
+        "Action",
+        "Horror",
+        "Drama",
+        "Crime",
+        "Sci-fi",
+        "Thriller"
+      ],
+      "director": "Petar Stojanovic",
+      "cast": [
+        "Stanko",
+        "Petko",
+        "Ilija"
+      ],
+      "image": "/images/HomePage/Movies/image8.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": false,
+      "keywords": [
+        "Balkans",
+        "Action"
+      ],
+      "comments": []
+    },
+    {
+      "id": 9,
+      "title": "Juzni Vetar Na Granici",
+      "description": "Juzni Vetar Na Granici is an action-packed thriller that follows the exploits of a group of border patrol agents as they battle drug smugglers and human traffickers along the Macedonian-Greek border. Full of suspense, excitement, and breathtaking action sequences, the film is a thrilling ride from start to finish.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History",
+        "Crime",
+        "Sci-fi",
+        "Thriller"
+      ],
+      "director": "Stefan Markovic",
+      "cast": [
+        "Viktor",
+        "Jana",
+        "Mladen"
+      ],
+      "image": "/images/HomePage/Movies/image9.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": true,
+      "keywords": [
+        "Adventure",
+        "Action"
+      ],
+      "comments": []
+    },
+    {
+      "id": 10,
+      "title": "HOMO Only Human",
+      "description": "HOMO Only Human is a thought-provoking drama that explores the complexities of identity and sexuality in contemporary Macedonia. When a young man discovers that he is gay, he must navigate a society that is often hostile to those who are different. Full of heart and courage, HOMO Only Human is a powerful testament to the resilience of the human spirit.",
+      "genres": [
+        "Action",
+        "Horror",
+        "Drama",
+        "History",
+        "Sci-fi"
+      ],
+      "director": "Ana Petrovic",
+      "cast": [
+        "Stefan",
+        "Marko",
+        "Jovana"
+      ],
+      "image": "/images/HomePage/Movies/image10.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": false,
+      "keywords": [
+        "Culture",
+        "Adventure",
+        "Action"
+      ],
+      "comments": []
+    },
+    {
+      "id": 11,
+      "title": "The Liberation Of Skopje",
+      "description": "The Liberation Of Skopje is a powerful historical drama that tells the story of the Macedonian resistance during World War II. Set against the backdrop of the Nazi occupation, the film follows the lives of ordinary people who become heroes in the face of tyranny and oppression. Full of courage, sacrifice, and hope, The Liberation Of Skopje is a testament to the indomitable human spirit.",
+      "genres": [
+        "Action",
+        "History",
+        "Crime",
+        "Sci-fi",
+        "Thriller"
+      ],
+      "director": "Igor Ivanov",
+      "cast": [
+        "Risto",
+        "Svetlana",
+        "Vlado"
+      ],
+      "image": "/images/HomePage/Movies/image11.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": true,
+      "isNewRelease": true,
+      "keywords": [
+        "Balkans",
+        "Culture",
+        "Adventure"
+      ],
+      "comments": []
+    },
+    {
+      "id": 12,
+      "title": "Macedoniana Saga",
+      "description": "Macedoniana Saga is an epic historical drama that tells the story of Macedonia from ancient times to the present day. From the glory of Alexander the Great to the struggles of modern-day Macedonia, the film explores the rich history and cultural heritage of the Macedonian people. Full of action, romance, and intrigue, Macedoniana Saga is an unforgettable cinematic experience.",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "director": "Nikola Petrovic",
+      "cast": [
+        "Aleksandar",
+        "Olga",
+        "Viktor"
+      ],
+      "image": "/images/HomePage/Movies/image12.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": true,
+      "keywords": [
+        "Adventure",
+        "Tradition"
+      ],
+      "comments": []
+    },
+    {
+      "id": 13,
+      "title": "Tetoviranje",
+      "description": "Tetoviranje is a gritty crime drama that follows the lives of a group of tattoo artists in Skopje. Set against the backdrop of the city's underground tattoo scene, the film explores themes of art, identity, and belonging, leaving viewers on the edge of their seats until the very end.",
+      "genres": [
+        "Action",
+        "Comedy",
+        "History",
+        "Crime"
+      ],
+      "director": "Stefan Ivanov",
+      "cast": [
+        "Marko",
+        "Ana",
+        "Petar"
+      ],
+      "image": "/images/HomePage/Movies/image13.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": true,
+      "keywords": [
+        "Culture",
+        "Tradition"
+      ],
+      "comments": []
+    },
+    {
+      "id": 14,
+      "title": "Luomo",
+      "description": "Luomo is a gripping psychological thriller that follows the descent of a man into madness. Set against the backdrop of contemporary Skopje, the film explores themes of obsession, paranoia, and the nature of reality, leaving viewers on the edge of their seats until the very end.",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Drama",
+        "Sci-fi",
+        "Thriller"
+      ],
+      "director": "Igor Ivanov",
+      "cast": [
+        "Stefan",
+        "Ana",
+        "Petar"
+      ],
+      "image": "/images/HomePage/Movies/image14.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": true,
+      "keywords": [
+        "Culture",
+        "Action"
+      ],
+      "comments": []
+    },
+    {
+      "id": 15,
+      "title": "Jaz Sem Frenk",
+      "description": "Jaz Sem Frenk is a heartwarming comedy that tells the story of a young man's journey to find his place in the world. Full of humor, heart, and unforgettable characters, the film is a delightful romp through contemporary Macedonia, leaving viewers with a smile on their faces.",
+      "genres": [
+        "Action",
+        "Horror",
+        "History",
+        "Crime",
+        "Sci-fi"
+      ],
+      "director": "Petar Stojanovic",
+      "cast": [
+        "Frenk",
+        "Ana",
+        "Stefan"
+      ],
+      "image": "/images/HomePage/Movies/image15.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": true,
+      "keywords": [
+        "Balkans",
+        "Action"
+      ],
+      "comments": []
+    },
+    {
+      "id": 16,
+      "title": "Second Chance",
+      "description": "Second Chance is a heartwarming drama that tells the story of a young woman's journey to overcome adversity and find love and redemption. Full of hope, courage, and inspiration, the film is a testament to the power of the human spirit to overcome even the greatest of obstacles.",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "director": "Ana Petrovic",
+      "cast": [
+        "Maja",
+        "Stefan",
+        "Jovana"
+      ],
+      "image": "/images/HomePage/Movies/image16.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": true,
+      "keywords": [
+        "Culture",
+        "Action",
+        "Tradition"
+      ],
+      "comments": []
+    },
+    {
+      "id": 17,
+      "title": "Senki",
+      "description": "Senki is a haunting drama that explores the lives of a group of survivors of the Holocaust. Set against the backdrop of post-war Macedonia, the film follows the survivors as they struggle to rebuild their lives and come to terms with the horrors of the past. Full of emotion, heartache, and hope, Senki is a powerful testament to the resilience of the human spirit.",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "History",
+        "Sci-fi",
+        "Thriller"
+      ],
+      "director": "Igor Ivanov",
+      "cast": [
+        "Sara",
+        "Milos",
+        "Jana"
+      ],
+      "image": "/images/HomePage/Movies/image17.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": true,
+      "keywords": [
+        "Culture",
+        "Tradition"
+      ],
+      "comments": []
+    },
+    {
+      "id": 18,
+      "title": "Fifi",
+      "description": "Fifi is an animated movie that follows the adventures of a curious and adventurous dog named Fifi. Join Fifi and her friends on their exciting journey through the colorful world of animation.",
+      "genres": [
+        "Animation"
+      ],
+      "director": "John Doe",
+      "cast": [
+        "Fifi",
+        "Buddy",
+        "Rex"
+      ],
+      "image": "/images/HomePage/Kids/image1.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "Adventure",
+        "Dog",
+        "Animation"
+      ],
+      "comments": []
+    },
+    {
+      "id": 19,
+      "title": "Pet Plus",
+      "description": "Pet Plus is a heartwarming animated movie about the adventures of a group of pets in a magical world. Join them as they embark on a journey full of fun, friendship, and excitement.",
+      "genres": [
+        "Animation"
+      ],
+      "director": "Jane Smith",
+      "cast": [
+        "Max",
+        "Bella",
+        "Charlie"
+      ],
+      "image": "/images/HomePage/Kids/image2.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "Pets",
+        "Adventure",
+        "Friendship"
+      ],
+      "comments": []
+    },
+    {
+      "id": 20,
+      "title": "Dajte Muzika",
+      "description": "Dajte Muzika is a captivating animated movie that tells the story of a young musician's journey to find his true passion for music. Join him as he discovers the power of music and friendship.",
+      "genres": [
+        "Animation"
+      ],
+      "director": "Michael Johnson",
+      "cast": [
+        "Alex",
+        "Sophia",
+        "Leo"
+      ],
+      "image": "/images/HomePage/Kids/image3.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "Music",
+        "Adventure",
+        "Friendship"
+      ],
+      "comments": []
+    },
+    {
+      "id": 21,
+      "title": "Zlatno Slavejce",
+      "description": "Zlatno Slavejce is a magical animated movie that follows the journey of a young girl who discovers a hidden treasure and embarks on an adventure to save her village. Join her as she encounters magical creatures and learns valuable lessons along the way.",
+      "genres": [
+        "Animation"
+      ],
+      "director": "David Brown",
+      "cast": [
+        "Lily",
+        "Tom",
+        "Emma"
+      ],
+      "image": "/images/HomePage/Kids/image4.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "Adventure",
+        "Magic",
+        "Friendship"
+      ],
+      "comments": []
+    },
+    {
+      "id": 22,
+      "title": "Nase Maalo",
+      "description": "Nase Maalo is an enchanting animated movie that takes you on a journey through a magical world filled with colorful characters and exciting adventures. Join the fun as you discover the wonders of Nase Maalo!",
+      "genres": [
+        "Animation"
+      ],
+      "director": "Sarah Johnson",
+      "cast": [
+        "Milo",
+        "Luna",
+        "Rocky"
+      ],
+      "image": "/images/HomePage/Kids/image5.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "Adventure",
+        "Magic",
+        "Friendship"
+      ],
+      "comments": []
+    },
+    {
+      "id": 23,
+      "title": "Kuka Na Srekata",
+      "description": "Explore the secrets of happiness and fulfillment in this podcast. Discover insights to lead a more satisfying life.Explore the secrets of happiness and fulfillment in this podcast. Discover insights to lead a more satisfying life.",
+      "genres": [
+        "Podcast"
+      ],
+      "director": "Director Name",
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2",
+        "Cast Member 3"
+      ],
+      "image": "/images/HomePage/Podcast/image1.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "arts",
+        "trends",
+        "discussion"
+      ],
+      "comments": []
+    },
+    {
+      "id": 24,
+      "title": "Dajte Muzika",
+      "description": "Dajte Muzika is a captivating animated movie that tells the story of a young musician's journey to find his true passion for music. Join him as he discovers the power of music and friendship.",
+      "genres": [
+        "Animation"
+      ],
+      "director": "Michael Johnson",
+      "cast": [
+        "Alex",
+        "Sophia",
+        "Leo"
+      ],
+      "image": "/images/HomePage/Kids/image3.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "Music",
+        "Adventure",
+        "Friendship"
+      ],
+      "comments": []
+    },
+    {
+      "id": 25,
+      "title": "Nase Maalo",
+      "description": "Nase Maalo is an enchanting animated movie that takes you on a journey through a magical world filled with colorful characters and exciting adventures. Join the fun as you discover the wonders of Nase Maalo!",
+      "genres": [
+        "Animation"
+      ],
+      "director": "Sarah Johnson",
+      "cast": [
+        "Milo",
+        "Luna",
+        "Rocky"
+      ],
+      "image": "/images/HomePage/Kids/image5.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "Adventure",
+        "Magic",
+        "Friendship"
+      ],
+      "comments": []
+    },
+    {
+      "id": 26,
+      "title": "Pet Plus",
+      "description": "Pet Plus is a heartwarming animated movie about the adventures of a group of pets in a magical world. Join them as they embark on a journey full of fun, friendship, and excitement.",
+      "genres": [
+        "Animation"
+      ],
+      "director": "Jane Smith",
+      "cast": [
+        "Max",
+        "Bella",
+        "Charlie"
+      ],
+      "image": "/images/HomePage/Kids/image2.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "Pets",
+        "Adventure",
+        "Friendship"
+      ],
+      "comments": []
+    },
+    {
+      "id": 27,
+      "title": "Podkast So Ivica",
+      "description": "Join Ivica in his podcast as he discusses a variety of topics from everyday life.Join Ivica in his podcast as he discusses a variety of topics from everyday life.",
+      "genres": [
+        "Podcast"
+      ],
+      "director": [
+        "Director Name"
+      ],
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2",
+        "Cast Member 3"
+      ],
+      "image": "/images/HomePage/Podcast/image2.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "arts",
+        "news",
+        "discussion"
+      ],
+      "comments": []
+    },
+    {
+      "id": 28,
+      "title": "Belo I Crveno",
+      "description": "Milo, Luna, and Rocky discuss the latest trends, news, and stories in this engaging podcast.Milo, Luna, and Rocky discuss the latest trends, news, and stories in this engaging podcast.",
+      "genres": [
+        "Podcast"
+      ],
+      "director": [
+        "Director Name"
+      ],
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2",
+        "Cast Member 3"
+      ],
+      "image": "/images/HomePage/Podcast/image3.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "trends",
+        "news",
+        "discussion"
+      ],
+      "comments": []
+    },
+    {
+      "id": 29,
+      "title": "Repertoar",
+      "description": "Explore the world of arts, music, and entertainment with our podcast, Repertoar.Explore the world of arts, music, and entertainment with our podcast, Repertoar. Explore the world of arts, music, and entertainment with our podcast, Repertoar",
+      "genres": [
+        "Podcast"
+      ],
+      "director": [
+        "Director Name"
+      ],
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2",
+        "Cast Member 3"
+      ],
+      "image": "/images/HomePage/Podcast/image4.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "arts",
+        "trends",
+        "discussion"
+      ],
+      "comments": []
+    },
+    {
+      "id": 30,
+      "title": "Da Ti Kazam",
+      "description": "Tune in to 'Da Ti Kazam' for insightful conversations and interviews on various topics.Tune in to 'Da Ti Kazam' for insightful conversations and interviews on various topics.Tune in to 'Da Ti Kazam' for insightful conversations and interviews on various topics.",
+      "genres": [
+        "Podcast"
+      ],
+      "director": [
+        "Director Name"
+      ],
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2",
+        "Cast Member 3"
+      ],
+      "image": "/images/HomePage/Podcast/image5.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "arts",
+        "trends",
+        "news"
+      ],
+      "comments": []
+    },
+    {
+      "id": 31,
+      "title": "Belo I Crveno",
+      "description": "Milo, Luna, and Rocky discuss the latest trends, news, and stories in this engaging podcast.Milo, Luna, and Rocky discuss the latest trends, news, and stories in this engaging podcast.",
+      "genres": [
+        "Podcast"
+      ],
+      "director": [
+        "Director Name"
+      ],
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2",
+        "Cast Member 3"
+      ],
+      "image": "/images/HomePage/Podcast/image3.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "trends",
+        "news",
+        "discussion"
+      ],
+      "comments": []
+    },
+    {
+      "id": 32,
+      "title": "Repertoar",
+      "description": "Explore the world of arts, music, and entertainment with our podcast, Repertoar.Explore the world of arts, music, and entertainment with our podcast, Repertoar. Explore the world of arts, music, and entertainment with our podcast, Repertoar",
+      "genres": [
+        "Podcast"
+      ],
+      "director": [
+        "Director Name"
+      ],
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2",
+        "Cast Member 3"
+      ],
+      "image": "/images/HomePage/Podcast/image4.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "arts",
+        "trends",
+        "discussion"
+      ],
+      "comments": []
+    },
+    {
+      "id": 33,
+      "title": "Da Ti Kazam",
+      "description": "Tune in to 'Da Ti Kazam' for insightful conversations and interviews on various topics.Tune in to 'Da Ti Kazam' for insightful conversations and interviews on various topics.Tune in to 'Da Ti Kazam' for insightful conversations and interviews on various topics.",
+      "genres": [
+        "Podcast"
+      ],
+      "director": [
+        "Director Name"
+      ],
+      "cast": [
+        "Cast Member 1",
+        "Cast Member 2",
+        "Cast Member 3"
+      ],
+      "image": "/images/HomePage/Podcast/image5.png",
+      "link": "/video/Lazar-MovieTrailer.mp4",
+      "popularity": false,
+      "isNewRelease": false,
+      "keywords": [
+        "arts",
+        "trends",
+        "news"
+      ],
+      "comments": []
+    }
+  ],
+  "discussions": [
+    {
+      "id": 1,
+      "viewerName": "John Doe",
+      "icon": "/images/Community/Users/image3.png",
+      "title": "Која е вистинската приказна за Балканкан...",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et consequuntur molestias, unde quidem cupiditate aperiam voluptatum voluptas enim optio quo autem. Voluptatibus aut distinctio qui modi neque culpa ut dolores!",
+      "likes": 248,
+      "dislikes": 38,
+      "comments": [
+        {
+          "id": 2,
+          "viewerName": "Jane Smith",
+          "content": "Great discussion!",
+          "icon": "/images/Community/Users/image1.png",
+          "likes": 73
+        },
+        {
+          "id": 3,
+          "viewerName": "Jhonny",
+          "content": "I cant believe that",
+          "icon": "/images/Community/Users/image5.png",
+          "likes": 110
+        },
+        {
+          "id": 4,
+          "viewerName": "Kire",
+          "content": "I was under the impression that he came from a rich family",
+          "icon": "/images/Community/Users/image6.png",
+          "likes": 723
+        },
+        {
+          "id": 5,
+          "viewerName": "Andrijana",
+          "content": "This movie was amazing",
+          "icon": "/images/Community/Users/image2.png",
+          "likes": 228
+        },
+        {
+          "id": 256,
+          "viewerName": "Vane ",
+          "content": "blablaba",
+          "likes": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "viewerName": "Jessica",
+      "icon": "/images/Community/Users/image2.png",
+      "title": "Човек поголем од живот - Игот Џамбазов",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et consequuntur molestias, unde quidem cupiditate aperiam voluptatum voluptas enim optio quo autem. Voluptatibus aut distinctio qui modi neque culpa ut dolores!",
+      "likes": 369,
+      "dislikes": 206,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "viewerName": "Will Smith",
+      "icon": "/images/Community/Users/image6.png",
+      "title": "Дали мислите дека....",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et consequuntur molestias, unde quidem cupiditate aperiam voluptatum voluptas enim optio quo autem. Voluptatibus aut distinctio qui modi neque culpa ut dolores!",
+      "likes": 2239,
+      "dislikes": 356,
+      "comments": [
+        {
+          "id": 959,
+          "viewerName": "Vane ",
+          "content": "fasfasfasfs",
+          "likes": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "viewerName": "Anthony",
+      "icon": "/images/Community/Users/image5.png",
+      "title": "Мојата интерпретација за Трето полувреме",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et consequuntur molestias, unde quidem cupiditate aperiam voluptatum voluptas enim optio quo autem. Voluptatibus aut distinctio qui modi neque culpa ut dolores!",
+      "likes": 539,
+      "dislikes": 103,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "viewerName": "Mihail",
+      "icon": "/images/Community/Users/image4.png",
+      "title": "Кој беше глумецот?",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et consequuntur molestias, unde quidem cupiditate aperiam voluptatum voluptas enim optio quo autem. Voluptatibus aut distinctio qui modi neque culpa ut dolores!",
+      "likes": 1239,
+      "dislikes": 675,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "viewerName": "Marija",
+      "icon": "/images/Community/Users/image1.png",
+      "title": "Прекрасен филм",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et consequuntur molestias, unde quidem cupiditate aperiam voluptatum voluptas enim optio quo autem. Voluptatibus aut distinctio qui modi neque culpa ut dolores!",
+      "likes": 103,
+      "dislikes": 54,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "viewerName": "Gorgi",
+      "icon": "/images/Community/Users/image5.png",
+      "title": "Amazing action movie",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et consequuntur molestias, unde quidem cupiditate aperiam voluptatum voluptas enim optio quo autem. Voluptatibus aut distinctio qui modi neque culpa ut dolores!",
+      "likes": 4239,
+      "dislikes": 765,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "viewerName": "Hristijan",
+      "icon": "/images/Community/Users/image3.png",
+      "title": "The context in the movie was splendid",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et consequuntur molestias, unde quidem cupiditate aperiam voluptatum voluptas enim optio quo autem. Voluptatibus aut distinctio qui modi neque culpa ut dolores!",
+      "likes": 239,
+      "dislikes": 316,
+      "comments": []
+    },
+    {
+      "id": 644,
+      "viewerName": "Vane ",
+      "title": "Zdravo",
+      "content": "fsafasfasfas",
+      "likes": 0,
+      "dislikes": 0,
+      "comments": []
+    }
+  ]
+}

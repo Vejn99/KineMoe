@@ -1,0 +1,40 @@
+.login {
+  display: block;
+  width: 400px;
+  color: white;
+  background-color: transparent;
+  border: 0.5px solid white;
+  border-radius: 30px;
+  outline: none;
+  padding: 10px;
+}
+
+.login.red-border {
+  border: 0.5px solid red;
+}
+
+.login .login-inner {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.login .login-inner img {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  margin-right: 100px;
+}
+
+.login .login-inner p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0;
+}
+
+p.error {
+  color: red;
+  font-size: 14px;
+  padding-left: 20px;
+}

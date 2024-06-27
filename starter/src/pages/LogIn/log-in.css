@@ -1,0 +1,128 @@
+.banner-container {
+  height: 100vh;
+  position: relative;
+  background-image: linear-gradient(
+      to top,
+      rgba(255, 255, 255, 0),
+      rgb(0, 0, 0, 0.4)
+    ),
+    url("../../../public/images/SignIn/BgImage.png");
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.banner-container .banner-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1200px;
+  height: 750px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 20px;
+}
+
+.banner-container .banner-inner .left-side {
+  width: 600px;
+  height: 750px;
+  position: relative;
+  background-image: url("../../../public/images/SignIn/SideImage.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 20px 0px 0px 20px;
+}
+
+.banner-inner .left-side .logo {
+  position: absolute;
+  top: 24%;
+  left: 20%;
+}
+
+.banner-inner .left-side .logo h1 {
+  color: white;
+  font-family: Impact;
+  font-size: 100px;
+  font-weight: 400;
+  line-height: 120px;
+  text-transform: uppercase;
+}
+
+.banner-inner .left-side .logo span {
+  color: #f22229;
+}
+
+.banner-container .banner-inner .right-side {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 750px;
+  color: white;
+  background-color: #1b1f23;
+  border-radius: 0px 20px 20px 0px;
+}
+
+.banner-inner .right-side h5 {
+  font-family: Lato;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.banner-inner .right-side span {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 25px;
+}
+
+.banner-inner .right-side a.create-acc {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.banner-inner .right-side .form-btn {
+  display: block;
+  width: 400px;
+  color: white;
+  background-color: #519c3c;
+  transition: background-color 0.8s ease;
+  border: 1px solid transparent;
+  border-radius: 30px;
+  cursor: pointer;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.banner-inner .right-side .form-btn:hover {
+  background-color: #2f6e1e;
+}
+
+.banner-inner .right-side .horizontal {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.banner-inner .right-side .horizontal hr.horizontal-line {
+  width: 170px;
+  border: 1px solid white;
+}
+
+.banner-inner .right-side .horizontal span {
+  padding-top: 3px;
+  margin: 0 15px;
+}

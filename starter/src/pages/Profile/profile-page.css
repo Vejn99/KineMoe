@@ -1,0 +1,203 @@
+.profile-container {
+  position: relative;
+  height: 100vh;
+  color: white;
+  background-color: #0b151b;
+  overflow: hidden;
+  font-family: "Lato", sans-serif;
+}
+
+.profile-container .banner-image {
+  height: 25vh;
+  background-image: url("../../../public/images/SignIn/Banner.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.banner-image .profile-icons {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 5%;
+  left: 28%;
+}
+
+.banner-image .profile-icons img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  cursor: pointer;
+  transition: transform 0.4s ease;
+}
+
+.banner-image .profile-icons img:hover {
+  transform: scale(1.2);
+}
+
+.banner-image .profile-icons img:not(:last-child) {
+  margin-right: 40px;
+}
+
+.profile-container .profile-inner {
+  display: flex;
+}
+
+.profile-container .left-side {
+  position: relative;
+  width: 420px;
+  height: 768px;
+  background-color: #1c3747;
+  border-bottom-right-radius: 32px;
+  margin-left: 130px;
+}
+
+.profile-container .left-side .profile-icon {
+  position: absolute;
+  top: -13%;
+  right: 0;
+  transform: translate(-55%);
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.profile-container .left-side .profile-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 1px solid transparent;
+  border-radius: 50%;
+}
+
+.profile-container .left-side .user-details {
+  width: 350px;
+  position: absolute;
+  top: 13%;
+  right: 8%;
+  text-align: center;
+}
+
+.user-details .username {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 38.4px;
+  margin: 0;
+}
+
+.user-details .nickname {
+  color: #ffffff78;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: -0.03em;
+}
+
+.user-details .bio {
+  margin: 30px 0;
+}
+
+.user-details h3 {
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.user-details .badges {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.user-details .badges img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
+
+.user-details .badges img:not(:last-child) {
+  margin-right: 30px;
+}
+
+.user-details .h-line {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.562);
+  margin-top: 30px;
+}
+
+.graphs .graph-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-container .right-side {
+  width: 1450px;
+  position: relative;
+  margin: 30px 0 30px 45px;
+}
+
+.profile-container .right-side h3 {
+  color: #ffffffe4;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.right-side .comments-container {
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  margin-bottom: 50px;
+}
+
+.right-side .comments-container .comments-inner {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+}
+
+.right-side .comments-container .comments-inner::-webkit-scrollbar {
+  display: none;
+}
+
+.right-side .comments-container .comments-inner .comment {
+  display: inline-block;
+  width: fit-content;
+  background-color: #000000bf;
+  border-radius: 11px;
+  cursor: pointer;
+  padding: 8px 10px;
+  margin-bottom: 20px;
+}
+
+.right-side .comments-container .comments-inner .comment img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  border-radius: 50%;
+  margin-right: 7px;
+}
+
+.right-side .comments-container .comments-inner .comment p {
+  margin-top: 7px;
+  margin-bottom: 0;
+}
+
+.right-side .movies-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.right-side .movies-container .movies-inner {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+
+.right-side .movies-container .movies-inner::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,36 @@
+.artist-card {
+  width: 586px;
+  height: 680px;
+  border-radius: 57px;
+  background: conic-gradient(
+    from 180deg at 50% 50%,
+    #152833 0deg,
+    #0b151b 180.88deg,
+    #152833 360deg
+  );
+  text-align: center;
+  box-shadow: 15px 15px 50px 0px #00000080;
+  transition: all 0.5s ease;
+  margin-right: 50px;
+}
+
+.artist-card:hover {
+  transform: scale(1.1);
+  box-shadow: 1px 1px 40px 5px rgba(255, 255, 255, 0.5);
+}
+
+.artist-card h3 {
+  font-family: Lato;
+  font-size: 64px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 96px;
+  padding-top: 40px;
+}
+
+.artist-card img {
+  width: 584px;
+  height: 535.79px;
+  object-fit: cover;
+  border-radius: 57px;
+}

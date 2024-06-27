@@ -1,0 +1,24 @@
+.slide-container {
+  display: flex;
+  flex-direction: column;
+  margin: 40px 0px 40px 220px;
+}
+
+.slide-container h4 {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 56px;
+  text-align: left;
+  color: #d9d9d9;
+}
+
+.slider-inner {
+  display: flex;
+  gap: 10px;
+  overflow-x: scroll;
+}
+
+.slider-inner::-webkit-scrollbar {
+  display: none;
+}

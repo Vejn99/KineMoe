@@ -1,0 +1,132 @@
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  width: 130px;
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(
+    179.2deg,
+    rgba(64, 60, 60, 0.19) -10.59%,
+    rgba(64, 60, 60, 0.11) 102.31%
+  );
+  backdrop-filter: blur(5px);
+  box-shadow: 4px 4px 50px 0px #0000001a;
+  text-align: center;
+}
+
+nav .nav-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+nav .middle-icons {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+nav .middle-icons .nav-item:not(:last-child) {
+  margin-bottom: 40px;
+}
+
+nav .nav-item img.nav-img {
+  width: 45px;
+  height: 45px;
+  object-fit: contain;
+  transition: transform 0.7s ease;
+}
+
+nav .nav-item:hover img.nav-img {
+  transform: translateY(-10px);
+}
+
+nav .middle-icons .nav-item.rooms:hover img.nav-img {
+  cursor: pointer;
+  transform: translateY(-20px) rotate(-50deg);
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+nav .nav-item span.nav-span {
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  opacity: 0;
+  transition: opacity 0.9s ease, transform 1s ease;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+nav .nav-item:hover span.nav-span {
+  opacity: 1;
+  transform: translateY(-10px);
+}
+
+.dropdown-content {
+  position: absolute;
+  top: 37%;
+  left: 105%;
+  width: 535px;
+  height: 115px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 25px;
+  z-index: 1;
+  padding: 10px;
+}
+
+.dropdown-content .dropdown-inner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.dropdown-content .dropdown-inner .dropdown-item {
+  flex-basis: 15%;
+  margin-top: 13px;
+}
+
+.dropdown-content .dropdown-inner a {
+  display: block;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+  padding: 15px;
+}
+
+.dropdown-inner .dropdown-item img.dropdown-icon {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+  transition: transform 0.7s ease;
+}
+
+.dropdown-inner .dropdown-item:hover img.dropdown-icon {
+  transform: translateY(-10px);
+}
+
+.dropdown-inner span.dropdown-span {
+  padding-right: 20px;
+  opacity: 0;
+  transition: opacity 0.9s ease, transform 1s ease;
+  transform: translateY(-50%);
+}
+
+.dropdown-inner .dropdown-item:hover span.dropdown-span {
+  opacity: 1;
+  transform: translateY(-10px);
+}

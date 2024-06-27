@@ -1,0 +1,40 @@
+.step-two {
+  width: 900px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+}
+
+.interest-item {
+  width: 170px;
+  border: 2px solid white;
+  border-radius: 48px;
+  cursor: pointer;
+  color: white;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+  transition: all 0.3s;
+  padding: 10px 0;
+  margin-top: 15px;
+}
+
+.interest-item:hover {
+  background-color: #b9000076;
+}
+
+.interest-item.selected {
+  background-color: #519c3c;
+}
+
+.interest-item:not(:last-child) {
+  margin-right: 40px;
+}
+
+label input {
+  display: none;
+}
