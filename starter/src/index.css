@@ -3,11 +3,13 @@
 * {
   box-sizing: border-box;
 }
+:root {
+  background: #0b151b;
+}
 
 body {
   margin: 0;
   padding: 0;
-  background-color: #0b151b;
   overflow-x: hidden;
 }
 
